@@ -195,6 +195,7 @@ body {
   
   .social{
     margin-top: -7vh;
+    align-items: flex-end;
   }
   
   .Rpreload {
