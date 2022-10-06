@@ -169,8 +169,12 @@ body {
     width: 15vh;
   }
   
+  .text{
+    height: 40vh;
+  }
+  
   .images {
-    height: 45vh;}
+    height: 35vh;}
 
   .searchimg{
     width: 52vw;
