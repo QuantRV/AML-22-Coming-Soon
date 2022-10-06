@@ -176,12 +176,20 @@ body {
   }
   
   .images {
-    height: 35vh;}
+    height: 35vh;
+    margin-top;4vh;
+  }
 
   .searchimg{
     width: 70vw;
     margin-top: -4vh;
   }
+  
+  .social{
+    margin-top: -7vh;
+  }
+  
+  
   
   .amlName{
     margin-top: 4vh;
