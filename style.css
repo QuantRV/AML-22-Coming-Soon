@@ -133,6 +133,7 @@ body {
 }
 
 .socialimg{
+  margin-top: -10vh;
   height: 8vh;
   padding: 10px;
 }
@@ -184,17 +185,17 @@ body {
   
   .images {
     height: 35vh;
-    margin-top;4vh;
+    margin-top: 4vh;
   }
 
-  .searchimg{ 
+  .searchimg{
     width: 70vw;
     margin-top: -10vh;
     margin-bottom: 0vh;
   }
   
   .social{
-    margin-top: -7vh;
+    margin-top: -8vh;
   }
   
   .Rpreload {
