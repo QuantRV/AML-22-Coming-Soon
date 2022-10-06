@@ -168,6 +168,9 @@ body {
   .RpreloadImg {
     width: 15vh;
   }
+  
+  .images {
+    height: 45vh;}
 
   .searchimg{
     width: 52vw;
