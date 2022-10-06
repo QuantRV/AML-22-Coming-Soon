@@ -115,10 +115,12 @@ body {
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
+  margin-top:4vh;
 }
 
 .amlName {
-  width: 1000px;
+  width: 940px;
+  margin-top: 7vh;
 }
 
 .social{
