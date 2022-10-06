@@ -183,14 +183,16 @@ body {
 
   .searchimg{
     width: 70vw;
-    margin-top: -4vh;
+    margin-top: 0vh;
   }
   
   .social{
     margin-top: -7vh;
   }
   
-  
+  .Rpreload {
+    margin-top: -7vh;
+  }
   
   .amlName{
     margin-top: 4vh;
