@@ -43,6 +43,7 @@ body {
 }
 
 .RpreloadImg {
+  margin-top: -6vh;
   transform-origin: 57.73502691896258% 50%;
   width: 18vh;
   animation: rotation 6s infinite linear;
@@ -105,7 +106,7 @@ body {
 }
 
 .searchimg {
-  width: 650px;
+  width: 620px;
 }
 
 
@@ -120,7 +121,7 @@ body {
 
 .amlName {
   width: 940px;
-  margin-top: 7vh;
+  margin-top: 0vh;
 }
 
 .social{
